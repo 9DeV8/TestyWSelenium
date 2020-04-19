@@ -26,11 +26,11 @@ Test rozpoczyna sie od zalogowania. Następnie przechodzi do strony głównej gd
 **************************
 3.ExecuteProperLogin
 
-Test zaczyna się na stronie startowej /Signin. Następnie pola mail i hasło są uzupełniane i potwierdzone przyciskiem. Sprawdzenie czy zalogowano pomyślnie jest sprawdzane czy jest widoczny element na stronie "my-account"
+Test zaczyna się na stronie startowej /Signin. Następnie pola mail i hasło są uzupełniane i potwierdzone przyciskiem. Sprawdzenie czy zalogowano pomyślnie jest sprawdzane czy jest widoczny element "my-account" na stronie 
 **************************
 4.ExecuteWrongLogin
 
-Test zaczyna się na stronie startowej /Signin. Następnie pola mail i hasło są uzupełniane złym adresem mail i potwierdzone przyciskiem. Sprawdzenie czy nie zalogowano pomyślnie jest sprawdzane czy jest widoczny element na stronie "alert"
+Test zaczyna się na stronie startowej /Signin. Następnie pola mail i hasło są uzupełniane złym adresem mail i potwierdzone przyciskiem. Sprawdzenie czy nie zalogowano pomyślnie jest sprawdzane czy jest widoczny element "alert" na stronie 
 **************************
 5.FillContactForm
 
