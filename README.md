@@ -1,5 +1,5 @@
 # TestyWSelenium
- Lubimy pisać licencjat dasdasdasdasdasas
+Czyli najlepsze testy! 
  
 Login arrakisbse@gmail.com 
 Hasło Selenium1
@@ -29,3 +29,6 @@ W skład repozytorium wchodzi 5 testów
 5.FillContactForm
 
 **************************
+
+Done by Dominik Biedrzycki / Arkadiusz Ruszel
+
