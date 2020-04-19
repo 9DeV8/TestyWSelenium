@@ -34,7 +34,12 @@ Test zaczyna się na stronie startowej /Signin. Następnie pola mail i hasło s�
 **************************
 5.FillContactForm
 
+Test rozpoczyna się od zalogowania do serwisu w celu poprawnej weryfikaji profilu. 
+Następnie z widoku konta użytkownika przechodzi on do strony kontaktowej w prawym, górnym rogu "Contact us".
+Po przejściu na stronę "Contact us" wybiera on z listy dropdown Subject Heading wartość "Webmaster" oraz uzupełnia on treść wiadomości. 
+Po wykonaniu wyżej wymienionych czynności test klika przycisk "Send" i wysyła poprawnie wypełniony formularz.
 **************************
 
-Done by Dominik Biedrzycki / Arkadiusz Ruszel
+Stworzone przez Dominik Biedrzycki / Arkadiusz Ruszel
+2020
 
