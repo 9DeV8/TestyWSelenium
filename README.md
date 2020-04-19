@@ -41,5 +41,6 @@ Po wykonaniu wyżej wymienionych czynności test klika przycisk "Send" i wysyła
 **************************
 
 Stworzone przez Dominik Biedrzycki / Arkadiusz Ruszel
+
 2020
 
