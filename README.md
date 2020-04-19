@@ -17,7 +17,7 @@ każdy test rozpoczyna w http://automationpractice.com/index.php?controller=auth
 **************************
 1.Add_To_Cart_After_Select_Item_Logged
 
-Test rozpoczyna sie od zalogowania. Następnie przechodzi do strony głównej gdzie wybiera artykuł i jest przenoszony do podstrony z szczegółami. JEst zmieniony Rozmiar ubrania i dodanie do koszyka. Test jest kończony na oknie wyboru przejscia do podsumowania a powrotu do zakupów
+Test rozpoczyna sie od zalogowania. Następnie przechodzi do strony głównej gdzie wybiera artykuł i jest przenoszony do podstrony z szczegółami. Jest zmieniony Rozmiar ubrania i dodanie do koszyka. Test jest kończony na oknie wyboru przejscia do podsumowania a powrotu do zakupów
 **************************
 2.Add_To_Cart_From_Main_Page_Item_Logged
 
